@@ -1,4 +1,5 @@
 💻 Simulated Small Office Network using Cisco Packet Tracer
+
 This project presents the design and implementation of a simulated Small Office Network using Cisco Packet Tracer. The network is designed in a ring topology and showcases dynamic routing, server-client interactions, and core networking principles suited for a small business environment.
 
 📌 1. Introduction
